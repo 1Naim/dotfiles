@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=Dancing visualizer of osu! standard maps and custom osu! client written in Go
+Comment=Dancing visualizer of osu! standard maps and custom osu! client written in Go
+Exec=/home/naim/.local/share/danser/danser
+GenericName[en_US]=
+GenericName=
+Icon=/home/naim/.local/share/icons/dansercoin128.png
+MimeType=
+Name[en_US]=danser
+Name=danser
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-RunOnDiscreteGpu=false
+X-KDE-SubstituteUID=false
+X-KDE-Username=

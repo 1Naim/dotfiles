@@ -1,0 +1,5 @@
+#!/bin/sh
+truepath="${2%?}"
+unixpath="$(printf '%s\n' "$truepath" | sed -e 's/\\/\//g' -e 's/^.://'; echo x)"
+unixpath="${unixpath%?x}"
+exec "$1" "$unixpath"

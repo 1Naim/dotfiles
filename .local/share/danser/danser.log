@@ -1,0 +1,105 @@
+2024/08/05 13:01:55 -------------------------------------------------------------------
+2024/08/05 13:01:55 danser-go version: 0.9.1
+2024/08/05 13:01:55 Build commit hash: 0518d83a2a9966780040f002677066c32dc185fa
+2024/08/05 13:01:55 Ran using: [/home/naim/danser/danser-cli -nodbcheck -noupdatecheck -replay /mnt/Media/Games/osu!/Replays/Veilink - ZAQ - Seven Doors [K.Penguin's Seven Doors] (2024-08-02) Osu.osr -preciseprogress -record]
+2024/08/05 13:01:55 OS:  arch "rolling"
+2024/08/05 13:01:55 CPU: AMD Ryzen 5 6600HS Creator Edition, 1 cores
+2024/08/05 13:01:55 RAM: 13 GiB
+2024/08/05 13:01:55 -------------------------------------------------------------------
+2024/08/05 13:01:55 SettingsManager: Loading "/home/naim/danser/settings/default.json"
+2024/08/05 13:01:55 SettingsManager: "/home/naim/danser/settings/default.json" loaded!
+2024/08/05 13:01:55 ApiConnector: Loading "/home/naim/danser/settings/credentials.json"
+2024/08/05 13:01:55 Current config: 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
+2024/08/05 13:01:55 DatabaseManager: Initializing database...
+2024/08/05 13:01:55 DatabaseManager: Database schema version: 20220622
+2024/08/05 13:01:55 DatabaseManager: Database data version: 20220622
+2024/08/05 13:01:55 DatabaseManager: Scanning "/mnt/Media/Games/osu!/Songs" for .osu files...
+2024/08/05 13:01:55 DatabaseManager: '-nodbcheck' is active so only new directories will be imported.
+2024/08/05 13:01:55 DatabaseManager: Scan complete. Found 2 files.
+2024/08/05 13:01:55 DatabaseManager: Comparing files with database...
+2024/08/05 13:01:55 DatabaseManager: Compare complete.
+2024/08/05 13:01:55 DatabaseManager: Starting import of 2 maps. It may take up to several minutes...
+2024/08/05 13:01:55 DatabaseManager: Failed to import: EA - Tinnitus 03/EA - Tinnitus 03 (ThePooN) [Normal].osu
+2024/08/05 13:01:55 DatabaseManager: Failed to import: 344692 DJ Sharpnel - Blue Army (full ver)/DJ Sharpnel - Blue Army (full ver.) (SnowNiNo_) [Blue Army].osu
+2024/08/05 13:01:55 DatabaseManager: No new/updated beatmaps imported.
+2024/08/05 13:01:55 DatabaseManager: Loading beatmaps from database...
+2024/08/05 13:01:55 DatabaseManager: Loaded 29485 total.
+2024/08/05 13:01:55 Initializing GLFW...
+2024/08/05 13:01:55 GLFW Initialized!
+2024/08/05 13:01:55 Creating window...
+2024/08/05 13:01:55 Window created!
+2024/08/05 13:01:55 Initializing OpenGL...
+2024/08/05 13:01:55 GL Vendor:     AMD
+2024/08/05 13:01:55 GL Renderer:   AMD Radeon Graphics (radeonsi, rembrandt, LLVM 18.1.8, DRM 3.57, 6.10.3-2-cachyos-lto)
+2024/08/05 13:01:55 GL Version:    4.6 (Core Profile) Mesa 24.1.5-arch1.2
+2024/08/05 13:01:55 GLSL Version:  4.60
+2024/08/05 13:01:55 GL Extensions: GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc 
+2024/08/05 13:01:55 OpenGL initialized!
+2024/08/05 13:01:55 Quicksand Bold loaded!
+2024/08/05 13:01:56 Initializing BASS...
+2024/08/05 13:01:56 BASS Initialized!
+2024/08/05 13:01:56 BASS Version:        2.4.16.4
+2024/08/05 13:01:56 BASS FX Version:     2.4.12.1
+2024/08/05 13:01:56 BASS Mix Version:    2.4.10.0
+2024/08/05 13:01:56 SkinManager: Loading skin: 「sigma」- echoing inside
+2024/08/05 13:01:56 SkinManager: Skin "「sigma」- echoing inside" loaded.
+2024/08/05 13:01:56 SkinManager: Loading fallback skin: -                   nm
+2024/08/05 13:01:56 SkinManager: Fallback skin "-                   nm" loaded.
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/cursor.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/cursor-top.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/default-skin/hit50.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/default-skin/hit100.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/triangle.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/triangle-shadow.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/triangle-small.png
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/cross.png
+2024/08/05 13:01:56 Loading texture: assets/textures/cursortrail.png
+2024/08/05 13:01:56 Playing: ZAQ - Seven Doors [K.Penguin's Seven Doors]
+2024/08/05 13:01:56 Failed to create music stream, creating a dummy stream...
+2024/08/05 13:01:56 Loading texture into atlas: assets/textures/warning.png
+2024/08/05 13:01:56 Trying to load storyboard from:  /mnt/Media/Games/osu!/Songs/232290 ZAQ - Seven Doors/zaq - seven doors (einess) [k.penguin's seven doors].osu
+2024/08/05 13:01:56 Trying to load storyboard from:  /mnt/Media/Games/osu!/Songs/232290 ZAQ - Seven Doors/ZAQ - Seven Doors (eINess).osb
+2024/08/05 13:01:56 open /mnt/Media/Games/osu!/Songs/232290 ZAQ - Seven Doors/ZAQ - Seven Doors (eINess).osb: no such file or directory
+2024/08/05 13:01:56 Storyboard not found!
+2024/08/05 13:01:56 Loading:  /mnt/Media/Games/osu!/Replays/Veilink - ZAQ - Seven Doors [K.Penguin's Seven Doors] (2024-08-02) Osu.osr
+2024/08/05 13:01:56 Loading replay for "Veilink":
+2024/08/05 13:01:56 	Mods: HD
+2024/08/05 13:01:56 	Mean cv frametime: 16.00ms
+2024/08/05 13:01:56 	Replay duration: 89521ms
+2024/08/05 13:01:56 	Expected score: 3664038
+2024/08/05 13:01:56 	Replay loaded!
+2024/08/05 13:01:56 Creating osu! ruleset...
+2024/08/05 13:01:56 Using pp calc version 2022-09-30: https://osu.ppy.sh/home/news/2022-09-30-changes-to-osu-sr-and-pp
+2024/08/05 13:01:56 Calculating step SR for mods: NM
+2024/08/05 13:01:56 Calculations finished!
+2024/08/05 13:01:56 Stars:
+2024/08/05 13:01:56 	Aim:   3.349322596089673
+2024/08/05 13:01:56 	Speed: 2.4400915120803
+2024/08/05 13:01:56 	Total: 6.2172042770751785
+2024/08/05 13:01:56 SS PP:
+2024/08/05 13:01:56 	Aim:   165.22036905711292
+2024/08/05 13:01:56 	Tap:   65.05085444360635
+2024/08/05 13:01:56 	Acc:   70.96662745251352
+2024/08/05 13:01:56 	Total: 313.81866267611565
+2024/08/05 13:01:56 Calculating HP rates for "Veilink􏿿"...
+2024/08/05 13:01:56 	Passive drain rate: 18.786186952703993
+2024/08/05 13:01:56 	Normal multiplier: 1
+2024/08/05 13:01:56 	Combo end multiplier: 1
+2024/08/05 13:01:56 Ubuntu Regular loaded!
+2024/08/05 13:01:57 Please put your osu!api v1 key into '/home/naim/danser/settings/credentials.json' file
+2024/08/05 13:01:57 Creating HitObject container...
+2024/08/05 13:01:57 Container created.
+2024/08/05 13:01:57 SkinManager: Texture uploaded as single texture: cursor-ripple.png
+2024/08/05 13:01:57 SkinManager: Texture uploaded as single texture: section-pass.png
+2024/08/05 13:01:57 SkinManager: Texture uploaded as single texture: section-fail.png
+2024/08/05 13:01:57 SkinManager: Texture uploaded as single texture: play-skip.png
+2024/08/05 13:01:57 SkinManager: Texture uploaded as single texture: menu-button-background.png
+2024/08/05 13:01:57 FFmpeg exec location: /usr/bin/ffmpeg
+2024/08/05 13:01:57 Starting encoding!
+2024/08/05 13:01:57 Running ffmpeg with options: [-y -f rawvideo -vcodec rawvideo -s 1920x1080 -pix_fmt yuv420p -r 60 -i .ro2d8c63e3fef789387c89da7b45cd22c240 -an -vf vflip -c:v libx265 -color_range 1 -colorspace 1 -color_trc 1 -color_primaries 1 -movflags +write_colr -crf 18 -preset placebo /home/naim/Videos/danser_2024-08-05_13-01-57_temp/video.mp4]
+2024/08/05 13:01:57 Running ffmpeg with options: [-y -f f32le -acodec pcm_f32le -ar 48000 -ac 2 -i .ro2dceebc36538dfabbbd7ce1b7ace11c07d -nostats -vn -c:a aac -strict -2 -b:a 192k /home/naim/Videos/danser_2024-08-05_13-01-57_temp/audio.mp4]
+2024/08/05 13:01:57 Progress: 0%, Speed: 0.02x, ETA: 1h25m03s
+2024/08/05 13:01:57 Progress: 1%, Speed: 0.79x, ETA: 2m05s
+2024/08/05 13:01:59 Progress: 2%, Speed: 0.57x, ETA: 2m52s
+2024/08/05 13:02:18 Progress: 3%, Speed: 0.05x, ETA: 30m20s
+2024/08/05 13:03:14 Progress: 4%, Speed: 0.02x, ETA: 1h30m45s
