@@ -651,7 +651,7 @@
 		},
 		"AudioFilters": "",
 		"OutputDir": "/home/naim/Videos",
-		"Container": "mp4",
+		"Container": "mkv",
 		"ShowFFmpegLogs": true,
 		"MotionBlur": {
 			"Enabled": true,

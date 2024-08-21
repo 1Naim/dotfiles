@@ -1,0 +1,141 @@
+live_config_reload = true
+#working_directory = "None"
+
+# Aritim Dark
+
+# Default colors
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = '#10151a'
+foreground = '#eceff1'
+
+# Normal colors
+[colors.normal]
+black   = '#5d7c8c'
+red     = '#dc3016'
+green   = '#199054'
+yellow  = '#ffab23'
+blue    = '#366184'
+magenta = '#7d4eac'
+cyan    = '#48b2ae'
+white   = '#cfd8dc'
+
+# Bright colors
+[colors.bright]
+black   = '#45748c'
+red     = '#dc2109'
+green   = '#039047'
+yellow  = '#ff9900'
+blue    = '#2c5e84'
+magenta = '#7440ac'
+cyan    = '#34b2ac'
+white   = '#c2d5dc'
+
+[colors.dim]
+black   = '#76858c'
+red     = '#dc4f3c'
+green   = '#2a905b'
+yellow  = '#ffb74b'
+blue    = '#506e84'
+magenta = '#8a69ac'
+cyan    = '#6cb2af'
+white   = '#dcdcdc'
+
+[window]
+dynamic_padding = true
+decorations = "full"
+title = "Alacritty@CachyOS"
+opacity = 0.97
+decorations_theme_variant = "Dark"
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font Mono", style = "Regular" }
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+unfocused_hollow = true
+thickness = 0.15
+
+[mouse]
+hide_when_typing = true
+
+[[mouse.bindings]]
+mouse = "Middle"
+action = "PasteSelection"
+
+[keyboard]
+[[keyboard.bindings]]
+key = "Paste"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "Copy"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "L"
+mods = "Control"
+action = "ClearLogNotice"
+
+[[keyboard.bindings]]
+key = "L"
+mods = "Control"
+mode = "~Vi"
+chars = "\f"
+
+[[keyboard.bindings]]
+key = "PageUp"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollPageUp"
+
+[[keyboard.bindings]]
+key = "PageDown"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollPageDown"
+
+[[keyboard.bindings]]
+key = "Home"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollToTop"
+
+[[keyboard.bindings]]
+key = "End"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollToBottom"
+
+[[keyboard.bindings]]
+key = "V"
+mods = "Control|Shift"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "F"
+mods = "Control|Shift"
+action = "SearchForward"
+
+[[keyboard.bindings]]
+key = "B"
+mods = "Control|Shift"
+action = "SearchBackward"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+mode = "Vi"
+action = "ClearSelection"
+
+[[keyboard.bindings]]
+key = "Key0"
+mods = "Control"
+action = "ResetFontSize"
